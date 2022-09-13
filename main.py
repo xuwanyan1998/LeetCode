@@ -16,5 +16,7 @@ class Solution:
                 ans.sort()
                 return ans
 
+
+
 nums = [20,1,15,3,10,5,8]
 print(Solution().longestArithSeqLength(sorted(nums)))
